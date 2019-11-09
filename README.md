@@ -6,3 +6,5 @@
 
 - Github에서 일반적으로 이루어지는 Pull Request 흐름에 따라 미션을 수행해 주세요.
 - 자신의 github 아이디로 된 이름의 md 파일을 만들고 내용은 깃허브 주소를 입력하여 PR을 날려주세요.
+
+## https://github.com/idealbin
